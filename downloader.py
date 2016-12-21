@@ -34,5 +34,5 @@ def download_all():
 
 if __name__ == "__main__":
     download_all()
-    print u"下载完成"
+    print u"/n下载完成,祝君成功！"
 # change made from Ubuntu
